@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="b" x="-.222" y="-.222" width="1.444" height="1.444" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2025"/>
+  </filter>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+  <style type="text/css"/>
+  <filter id="filter1113" x="-.27429" y="-.21333" width="1.5486" height="1.4267" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.6"/>
+  </filter>
+ </defs>
+ <g transform="translate(-29.16 -1.1978)">
+  <g filter="url(#filter1113)" opacity=".35">
+   <path d="m44 9c-0.87505 0-1.6082 0.56012-1.8809 1.3398-0.3191-0.21523-0.70364-0.33984-1.1191-0.33984-1.108 0-2 0.892-2 2v3h-2v7c0 2.77 2.23 5 5 5h4c2.77 0 5-2.23 5-5v-8.5c0-0.831-0.669-1.5-1.5-1.5-0.17676 0-0.34278 0.03614-0.5 0.0918v-0.0918c0-1.108-0.892-2-2-2-0.4155 0-0.80004 0.12462-1.1191 0.33984-0.27262-0.77973-1.0058-1.3398-1.8809-1.3398z" opacity="1"/>
+   <path d="m44 10c0.554 0 1 0.446 1 1v5h1v-4c0-0.554 0.446-1 1-1s1 0.446 1 1v5h1v-4h1v9c0 2.216-1.784 4-4 4h-4c-2.216 0-4-1.784-4-4v-6h1v4h1v-8c0-0.554 0.446-1 1-1s1 0.446 1 1v3h1v-4c0-0.554 0.446-1 1-1z" opacity="1"/>
+  </g>
+  <path d="m44 9c-0.87505 0-1.6082 0.56012-1.8809 1.3398-0.3191-0.21523-0.70364-0.33984-1.1191-0.33984-1.108 0-2 0.892-2 2v3h-2v7c0 2.77 2.23 5 5 5h4c2.77 0 5-2.23 5-5v-8.5c0-0.831-0.669-1.5-1.5-1.5-0.17676 0-0.34278 0.03614-0.5 0.0918v-0.0918c0-1.108-0.892-2-2-2-0.4155 0-0.80004 0.12462-1.1191 0.33984-0.27262-0.77973-1.0058-1.3398-1.8809-1.3398z" fill="#151515"/>
+  <path d="m44 10c0.554 0 1 0.446 1 1v5h1v-4c0-0.554 0.446-1 1-1s1 0.446 1 1v5h1v-4h1v9c0 2.216-1.784 4-4 4h-4c-2.216 0-4-1.784-4-4v-6h1v4h1v-8c0-0.554 0.446-1 1-1s1 0.446 1 1v3h1v-4c0-0.554 0.446-1 1-1z" fill="#fff"/>
+ </g>
+ <path d="m23.468 17c-3.5898 0-6.5 2.9102-6.5 6.5 0 3.5899 2.9102 6.5 6.5 6.5s6.5-2.9101 6.5-6.5c0-3.5898-2.9102-6.5-6.5-6.5z" color="#000000" filter="url(#b)" opacity=".2" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ <circle cx="23.468" cy="22.5" r="6.5" fill="#fff"/>
+ <path d="m20.233 18.1c-2.261 1.6306-2.9499 4.7656-1.526 7.2318 1.5188 2.6307 4.8825 3.532 7.5131 2.0132s3.5319-4.8825 2.0131-7.5132c-1.5188-2.6306-4.8825-3.5319-7.5131-2.0131-0.16441 0.095-0.33642 0.1725-0.48714 0.2813zm1.4871 1.4508c1.3759-0.7944 3.0505-0.548 4.1458 0.4931l-5.7915 3.3438c-0.35403-1.4692 0.26987-3.0426 1.6458-3.8369zm-0.64577 5.5689 5.7915-3.3437c0.35403 1.4692-0.26987 3.0426-1.6458 3.8369-1.3759 0.7944-3.0505 0.548-4.1458-0.4932z" fill="#fa1919"/>
+</svg>
