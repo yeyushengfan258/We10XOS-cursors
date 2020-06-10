@@ -10,12 +10,12 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <filter id="filter913" x="-.31118" y="-.19532" width="1.6224" height="1.3906" color-interpolation-filters="sRGB">
+  <filter id="filter913-3" x="-.31118" y="-.19532" width="1.6224" height="1.3906" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.302265"/>
   </filter>
  </defs>
- <g transform="translate(-.021871 -2.9992)">
-  <g filter="url(#filter913)" opacity=".35">
+ <g transform="translate(-1.011,-3.998)">
+  <g filter="url(#filter913-3)" opacity=".35">
    <path d="m16.011 10.998-5.0106 12.002 4-1-4.2e-5 4.999 2 1e-3v-5l4.0437 1z" stroke="#151515" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
    <path d="m16.011 10.998-5.0106 12.002 4.0025-1-0.0025 4.999 2 1e-3 3e-3 -5 4.0407 1z" fill-rule="evenodd"/>
   </g>

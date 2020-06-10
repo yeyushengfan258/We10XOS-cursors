@@ -10,12 +10,12 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <filter id="filter863" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+  <filter id="filter863-3" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.80716109"/>
   </filter>
  </defs>
- <g transform="translate(-20.087 -.00019897)">
-  <g filter="url(#filter863)" opacity=".35">
+ <g transform="translate(-24.016 3.9289)">
+  <g filter="url(#filter863-3)" opacity=".35">
    <path d="m43.885 8.241c-0.22329-0.23588-0.54719-0.34868-0.86869-0.30245l-4.9497 0.70711c-0.81557 0.11709-1.1476 1.1149-0.56485 1.6973l4.2426 4.2426c0.58245 0.58277 1.5802 0.25072 1.6973-0.56485l0.70711-4.9497c0.04348-0.30244-0.05368-0.60817-0.26379-0.83002zm-1.9059 1.8672-0.23476 1.649-1.4142-1.4142zm-11.548 7.3063c-0.58245-0.58277-1.5802-0.25072-1.6973 0.56485l-0.70711 4.9497c-0.09523 0.66091 0.47159 1.2277 1.1325 1.1325l4.9497-0.70711c0.81557-0.11709 1.1476-1.1149 0.56485-1.6973zm0 2.8284 1.4142 1.4142-1.649 0.23476z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
    <path d="m43.158 8.929-4.9497 0.70711 4.2426 4.2426zm-13.435 9.1924-0.70711 4.9497 4.9497-0.70711z" stroke-width="1.4142"/>
    <rect transform="rotate(-45)" x="8.2034" y="34.831" width="12" height="4" ry="0"/>

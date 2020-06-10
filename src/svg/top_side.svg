@@ -10,12 +10,12 @@
   </rdf:RDF>
  </metadata>
  <defs>
-  <filter id="filter1017" x="-.17572" y="-.09111" width="1.3514" height="1.1822" color-interpolation-filters="sRGB">
+  <filter id="filter1017-3" x="-.17572" y="-.09111" width="1.3514" height="1.1822" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="1.0250244"/>
   </filter>
  </defs>
- <g transform="translate(30.102 -21.695)">
-  <g transform="matrix(1 0 0 -1 -45.101 54.194)" filter="url(#filter1017)" opacity=".35">
+ <g transform="translate(30.1,-21.194)">
+  <g transform="matrix(1,0,0,-1,-45.101,54.194)" filter="url(#filter1017-3)" opacity=".35">
    <rect transform="scale(-1,1)" x="-38" y="26" width="14" height="4" ry="0" stroke-width="1.0801"/>
    <rect transform="scale(-1,1)" x="-37" y="27" width="12" height="2" ry="0"/>
    <path d="m31.027 2.9994c-0.32468-0.0089-0.63348 0.14037-0.82812 0.40039l-3 4c-0.4939 0.65949-0.02312 1.5998 0.80076 1.5996h5.9999c0.82394 2.26e-4 1.2947-0.94008 0.80076-1.5996l-3-4c-0.18311-0.2446-0.468-0.39208-0.77344-0.40039zm-0.02737 2.668 1 1.332h-2zm-2.9993 13.332c-0.82394-2.27e-4 -1.2947 0.94008-0.80076 1.5996l3 4c0.4 0.53467 1.2016 0.53465 1.6016 0l3-4c0.4939-0.65949 0.02312-1.5998-0.80076-1.5996zm2 2h2l-1 1.332z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
